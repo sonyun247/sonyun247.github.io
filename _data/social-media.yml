@@ -25,7 +25,6 @@ github:
   url: https://www.github.com/
   icon: fab fa-github
   color: 333333
-
 # gitlab:
 #   url   : https://www.gitlab.com/
 #   icon  : fab fa-gitlab
@@ -96,7 +95,3 @@ github:
 #   icon  : fab fa-keybase
 #   color : 66ccff
 
-nomadcoders:
-  url: https://nomadcoders.co/users/sonyun24
-  icon: customIcon nomad
-  color: FF9500
