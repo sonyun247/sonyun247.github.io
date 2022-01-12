@@ -1,0 +1,11 @@
+- name: HTML5/CSS3
+  percentage: 90
+  color: danger
+
+- name: JavaScript
+  percentage: 80
+  color:
+
+- name: React
+  percentage: 70
+  color: secondary
