@@ -1,6 +1,21 @@
 # Get Icons  from : https://fontawesome.com/icons
 # Get Colors from : https://brandcolors.net/
 
+email:
+  url: "mailto:"
+  icon: fas fa-envelope
+  color: db4437
+
+github:
+  url: https://www.github.com/
+  icon: fab fa-github
+  color: 333333
+
+nomadcoders:
+  url: https://nomadcoders.co/users/
+  icon: icomoon icon-nomadcoders # From FontAwesome (https://fontawesome.com/icons)
+  color: ff9500 # Hex color code for hover
+
 # behance:
 #   url   : https://www.behance.net/
 #   icon  : fab fa-behance
@@ -11,20 +26,11 @@
 #   icon  : fab fa-dribbble
 #   color : 444444
 
-email:
-  url: "mailto:"
-  icon: fas fa-envelope
-  color: db4437
-
 # facebook:
 #   url   : https://www.facebook.com/
 #   icon  : fab fa-facebook
 #   color : 3b5998
 
-github:
-  url: https://www.github.com/
-  icon: fab fa-github
-  color: 333333
 # gitlab:
 #   url   : https://www.gitlab.com/
 #   icon  : fab fa-gitlab

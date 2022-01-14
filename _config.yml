@@ -1,11 +1,13 @@
 ### Site Settings ###
-title: LEE Seungje
-description: >-
-  welcome!
+title: 승제의 블로그
+description: |-
+  반갑습니다!
+  비전공자에서 전공자로 진화한 2022 New 이승제
+  기대해도 좋습니다.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: sonyun247/sonyun247.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
-open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab: true # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
 plugins:
@@ -38,6 +40,7 @@ author:
   # tumblr            : your_username.tumblr.com
   # twitch            : your_username
   # twitter: your_username
+  nomadcoders: sonyun24
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
