@@ -6,7 +6,7 @@ color: light
 description: 새해에는 나도 책 읽자!
 ---
 
-![Clean Code Book Image](https://user-images.githubusercontent.com/38553239/149493981-07804fe9-bdfc-43aa-a09a-0e9d0aa16886.jpeg)
+![Clean Code Book Image](/assets/images/clean-code.jpeg)
 
 **2022년 올해의 시작은 이 책과 함께해보려고 한다.**
 
