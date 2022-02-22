@@ -22,8 +22,8 @@ nav_exclude: # The following paths are excluded from navbar
 
 ### Author Info ###
 author:
-  name: LEE Seungje
-  image: https://avatars.githubusercontent.com/u/38553239?v=4
+  name: 이승제
+  image: /assets/images/avatar.png
   # behance: your_username
   # dribbble          : your_username
   email: sonyun24@gmail.com
