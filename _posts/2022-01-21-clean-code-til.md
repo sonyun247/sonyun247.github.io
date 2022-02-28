@@ -1,7 +1,7 @@
 ---
 title: 북클럽 TIL
 tags: [Clean Code, NomadCoders, TIL, 북클럽, 노개북]
-style: fill
+style: border
 color: warning
 description: Today I Learned
 open_new_tab: true
