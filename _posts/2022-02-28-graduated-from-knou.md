@@ -3,11 +3,11 @@ title: 방송대 졸업에 대한 소회와 근황
 tags: [Coding, Brain Melting]
 style: fill
 color: success
-description: A graduate of computer science from Korea National Open University.
+description: 앞으로도 화이팅!
 open_new_tab: true
 ---
 
-![](/assets/images/diploma.jpg)
+![](/assets/images/diploma.jpg){:width="300"}
 
 ## 컴공 졸업, 취준생으로 전직
 
@@ -38,7 +38,7 @@ open_new_tab: true
 정녕 내 두뇌는 RAM인가.. 왜 자꾸 날라가는건데 😂  
 할 게 태산이다.  
 자꾸만 조바심이 든다.  
-MDN 다보면 React, TypeScript, Redux, GraphQL, Next.js...끝도 없다.  
+MDN 다보면 React, TypeScript, Redux, GraphQL, Next.js, SEO...끝도 없다.  
 덧붙여 구글, 마소 클라우드 자격증도 공부해보고 싶지만 그건 취업하고 난 뒤로 패스.  
 포트폴리오 하나 없는 지금, 빨리 포트폴리오나 만들지 이렇게 복습하고 있는게 맞나 싶기도 하다.  
 현업에 지인이라도 있었다면 단 한 마디의 조언이라도 듣고싶다 정말. 😭

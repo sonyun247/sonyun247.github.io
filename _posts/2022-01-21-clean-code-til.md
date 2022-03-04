@@ -7,7 +7,7 @@ description: Today I Learned
 open_new_tab: true
 ---
 
-![](/assets/images/reading-man.jpeg)
+![](/assets/images/reading-man.jpeg){:width="300"}
 
 ## 북클럽 TIL
 

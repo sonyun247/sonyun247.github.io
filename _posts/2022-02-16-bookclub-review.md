@@ -3,7 +3,7 @@ title: 북클럽 후기
 tags: [Clean Code, NomadCoders, TIL, 북클럽, 노개북]
 style: fill
 color: secondary
-description: Developer Book Club Review
+description: 이런 북클럽 꽤 괜찮을지도..?
 open_new_tab: true
 ---
 
