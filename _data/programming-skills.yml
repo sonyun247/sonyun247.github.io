@@ -1,11 +1,15 @@
 - name: HTML5/CSS3
   percentage:
-  color: danger
+  color:
 
-- name: JavaScript
+- name: JavaScript/TypeScript
   percentage:
   color:
 
 - name: React
   percentage:
-  color: secondary
+  color:
+
+- name: Next.js
+  percentage:
+  color:
